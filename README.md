@@ -14,6 +14,7 @@ We regularly test and update a complete list of **working Kodi addons, builds, a
 - ✔ Kodi Builds for Firestick & Android TV
 - ✔ How to Fix Kodi Buffering Issues
 - ✔ Kodi VPN Setup for Safe Streaming
+- ✔ Best KOdi Addson for Movies 
 
 ---
 

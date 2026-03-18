@@ -65,4 +65,4 @@ Using Kodi without a VPN can expose your IP and streaming activity.
 - https://kodirepo.com/category/kodi-vpn/
 - https://kodirepo.com/category/kodi-skin/
 
-Stay updated with working Kodi addons and troubleshooting guides.
+Stay updated with working Kodi addons blog and Telegram and troubleshooting guides.
